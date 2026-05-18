@@ -1,0 +1,783 @@
+# FILE:RES_Robson R01.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEDRA_BRANCA
+Ka 0.644118 0.644118 0.644118
+Kd 0.644118 0.644118 0.644118
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Stone - Marble Carrara White -opt.jpg
+map_Kd RES_Robson R01_Texturas\Stone - Marble Carrara White -opt.jpg
+map_Ks RES_Robson R01_Texturas\Stone - Marble Carrara White -opt.jpg
+newmtl GDLM3_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEN_MATERIAL90
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Estuque_-_Branco_Áspera
+Ka 0.75 0.75 0.75
+Kd 0.95 0.95 0.95
+Ks 0.0793725 0.0774902 0.0759216
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Stucco - White Rough cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Stucco - White Rough cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Stucco - White Rough cb -opt.jpg
+newmtl GDLM6_PEN_MATERIAL0
+Ka 0.844892 0.844892 0.844892
+Kd 0.844892 0.844892 0.844892
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl REBOCO_-_ACABAMENTO_A_DEFINIR
+Ka 0.66 0.66 0.66
+Kd 0.95 0.95 0.95
+Ks 0.01 0.01 0.01
+illum 2
+Ns 0.16
+map_Ka RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+map_Kd RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+map_Ks RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+newmtl Estuque_-_Amarelo_Áspera
+Ka 0.75 0.614706 0.367647
+Kd 0.95 0.778627 0.465686
+Ks 0.0793725 0.0774902 0.0759216
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Stucco - Yellow Rough cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Stucco - Yellow Rough cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Stucco - Yellow Rough cb -opt.jpg
+newmtl PEN_MATERIAL87
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Tijolo_-_Aparelho_ao_Comprido
+Ka 0.494118 0.370588 0.329412
+Kd 0.494118 0.370588 0.329412
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Brick - Running Bond -opt.jpg
+map_Kd RES_Robson R01_Texturas\Brick - Running Bond -opt.jpg
+map_Ks RES_Robson R01_Texturas\Brick - Running Bond -opt.jpg
+newmtl Pintura_-_Cinza_Claro
+Ka 0.612706 0.612706 0.612706
+Kd 0.270118 0.270118 0.270118
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Estuque_-_Branco_Suave
+Ka 0.66 0.66 0.66
+Kd 0.95 0.95 0.95
+Ks 0.01 0.01 0.01
+illum 2
+Ns 0.16
+map_Ka RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+map_Kd RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+map_Ks RES_Robson R01_Texturas\Stucco - White Fine c -opt.jpg
+newmtl PINTURA_BRANCO
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl BLOCO_CERÂMICO_APARENTE_HORIZONTAL
+Ka 0.562745 0.447451 0.359608
+Kd 0.562745 0.447451 0.359608
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Brick - Building Block -opt.jpg
+map_Kd RES_Robson R01_Texturas\Brick - Building Block -opt.jpg
+map_Ks RES_Robson R01_Texturas\Brick - Building Block -opt.jpg
+newmtl Cobertura_-_Folha_Ondulada_Mate
+Ka 0.572784 0.572784 0.572784
+Kd 0.530039 0.530039 0.530039
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Roof - Corrugated Sheet Matte -opt.jpg
+map_Kd RES_Robson R01_Texturas\Roof - Corrugated Sheet Matte -opt.jpg
+map_Ks RES_Robson R01_Texturas\Roof - Corrugated Sheet Matte -opt.jpg
+newmtl PEN_MATERIAL18
+Ka 0.673854 0.673854 0.673854
+Kd 0.673854 0.673854 0.673854
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Concreto_-_04
+Ka 0.322824 0.324745 0.303608
+Kd 0.474353 0.477176 0.446118
+Ks 0.356948 0.3491 0.306226
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Concrete - 04 cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Concrete - 04 cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Concrete - 04 cb -opt.jpg
+newmtl PORCELANATO_CINZA_90x90cm
+Ka 0.564706 0.564706 0.564706
+Kd 0.579765 0.579765 0.579765
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Tiles - Light Gray 60x60 -opt.jpg
+map_Kd RES_Robson R01_Texturas\Tiles - Light Gray 60x60 -opt.jpg
+map_Ks RES_Robson R01_Texturas\Tiles - Light Gray 60x60 -opt.jpg
+newmtl CONCRETO_POLIDO_CLARO
+Ka 0.658824 0.658824 0.658824
+Kd 0.7 0.7 0.7
+Ks 0.212824 0.212824 0.212824
+illum 2
+Ns 0.92
+map_Ka RES_Robson R01_Texturas\CONCRETO POLIDO CLARO.jpg
+map_Kd RES_Robson R01_Texturas\CONCRETO POLIDO CLARO.jpg
+map_Ks RES_Robson R01_Texturas\CONCRETO POLIDO CLARO.jpg
+newmtl MADEIRA_MÉDIA_HORIZONTAL
+Ka 0.449294 0.388863 0.310039
+Kd 0.415765 0.359843 0.286902
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\MADEIRA MÉDIA.jpg
+map_Kd RES_Robson R01_Texturas\MADEIRA MÉDIA.jpg
+map_Ks RES_Robson R01_Texturas\MADEIRA MÉDIA.jpg
+newmtl MADEIRA_CLARA_02_HORIZONTAL
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\MADEIRA CLARA 02.jpg
+map_Kd RES_Robson R01_Texturas\MADEIRA CLARA 02.jpg
+map_Ks RES_Robson R01_Texturas\MADEIRA CLARA 02.jpg
+newmtl AR
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+d 0
+Ns 0
+newmtl Pintura_-_Bege_Dourado
+Ka 0.682 0.565294 0.412118
+Kd 0.300667 0.249216 0.181686
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Grama_-_Verde
+Ka 0.259686 0.510314 0.138902
+Kd 0.246196 0.483804 0.131686
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Grass - Green cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Grass - Green cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Grass - Green cb -opt.jpg
+newmtl Pintura_-_Cinza_Escuro
+Ka 0.331882 0.331882 0.331882
+Kd 0.146314 0.146314 0.146314
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Metal_-_Aço_Inoxidável
+Ka 0.532353 0.535294 0.567647
+Kd 0.390392 0.392549 0.416275
+Ks 0.82349 0.803961 0.787686
+illum 2
+Ns 13
+map_Ka RES_Robson R01_Texturas\Metal - Stainless Steel -opt.jpg
+map_Kd RES_Robson R01_Texturas\Metal - Stainless Steel -opt.jpg
+map_Ks RES_Robson R01_Texturas\Metal - Stainless Steel -opt.jpg
+newmtl Metal_-_Ferro
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Metal - Iron -opt.jpg
+map_Kd RES_Robson R01_Texturas\Metal - Iron -opt.jpg
+map_Ks RES_Robson R01_Texturas\Metal - Iron -opt.jpg
+newmtl Vidro_-_Azul
+Ka 0.150118 0.196745 0.283176
+Kd 0.517647 0.678431 0.976471
+Ks 1 1 1
+illum 2
+d 0.78
+Ns 34
+newmtl Pintura_-_Anthracite
+Ka 0.167765 0.167765 0.167765
+Kd 0.0739608 0.0739608 0.0739608
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Pintura_-_Branco_Titânio
+Ka 0.93 0.93 0.93
+Kd 0.41 0.41 0.41
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl MADEIRA__CLARA_VERTICAL
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\_MADEIRA CLARA.jpg
+map_Kd RES_Robson R01_Texturas\_MADEIRA CLARA.jpg
+map_Ks RES_Robson R01_Texturas\_MADEIRA CLARA.jpg
+newmtl Metal_-_Cromado_01
+Ka 0.486863 0.486863 0.486863
+Kd 0.224706 0.224706 0.224706
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92
+newmtl PINTURA_COR_PRETA
+Ka 0.167765 0.167765 0.167765
+Kd 0.0739608 0.0739608 0.0739608
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl PINTURA_COR_BRANCA_ACETINADA
+Ka 0.88 0.88 0.88
+Kd 0.3 0.3 0.3
+Ks 0.683104 0.683104 0.69
+illum 2
+Ns 38.56
+newmtl Madeira_-_Pinho_Granulado_Horizontal
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Wood - Pine Grained Horizontal -opt.jpg
+map_Kd RES_Robson R01_Texturas\Wood - Pine Grained Horizontal -opt.jpg
+map_Ks RES_Robson R01_Texturas\Wood - Pine Grained Horizontal -opt.jpg
+newmtl GDLM36_rfa_material_1
+Ka 0.937255 0.94902 0.976471
+Kd 0.937255 0.94902 0.976471
+Ks 0 0 0
+illum 2
+Ns 25.1
+newmtl Metal_-_Zinco
+Ka 0.365257 0.369906 0.373607
+Kd 0.418385 0.423711 0.42795
+Ks 0.418353 0.418353 0.418353
+illum 2
+Ns 11
+map_Ka RES_Robson R01_Texturas\Metal - Zinc -opt.jpg
+map_Kd RES_Robson R01_Texturas\Metal - Zinc -opt.jpg
+map_Ks RES_Robson R01_Texturas\Metal - Zinc -opt.jpg
+newmtl Pintura_-_Bege_Areia
+Ka 0.769529 0.725765 0.623647
+Kd 0.339255 0.319961 0.274941
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl GDLM39_rfa_material_1
+Ka 0.956863 0.956863 0.956863
+Kd 0.956863 0.956863 0.956863
+Ks 0 0 0
+illum 2
+Ns 25.1
+newmtl GDLM40_material_1
+Ka 0.419608 0.421569 0.401961
+Kd 0.671373 0.67451 0.643137
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\cembonit_DIFFUSE3.jpg
+map_Kd RES_Robson R01_Texturas\cembonit_DIFFUSE3.jpg
+map_Ks RES_Robson R01_Texturas\cembonit_DIFFUSE3.jpg
+newmtl GDLM41_material_2
+Ka 0.0745098 0.0745098 0.0745098
+Kd 0.119216 0.119216 0.119216
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM42_material_3
+Ka 0.0745098 0.0745098 0.0745098
+Kd 0.119216 0.119216 0.119216
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM43_material_4
+Ka 0.419608 0.392157 0.341176
+Kd 0.671373 0.627451 0.545882
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\12.jpg
+map_Kd RES_Robson R01_Texturas\12.jpg
+map_Ks RES_Robson R01_Texturas\12.jpg
+newmtl GDLM44_material_5
+Ka 0.350004 0.350004 0.350004
+Kd 0.560006 0.560006 0.560006
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Pintura_-_Preto_Marfim
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.356402 0.356402 0.36
+illum 2
+Ns 0.72
+newmtl Madeira_-_Nogueira_Vertical
+Ka 0.225961 0.173412 0.136627
+Kd 0.209098 0.160471 0.126431
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Wood - Walnut Vertical -opt.jpg
+map_Kd RES_Robson R01_Texturas\Wood - Walnut Vertical -opt.jpg
+map_Ks RES_Robson R01_Texturas\Wood - Walnut Vertical -opt.jpg
+newmtl PEN_MATERIAL155
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM48_rfa_material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 25.1
+newmtl PINTURA_COR_BRANCA_FOSCA
+Ka 0.93 0.93 0.93
+Kd 0.41 0.41 0.41
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Vidro_-_Clara_Rápida
+Ka 0.64 0.658667 0.648
+Kd 0.564706 0.581176 0.571765
+Ks 1 1 1
+illum 2
+d 0.31
+Ns 79.52
+newmtl Metal_-_Alumínio
+Ka 0.71586 0.687236 0.687236
+Kd 0.128488 0.12335 0.12335
+Ks 0.544738 0.544738 0.544738
+illum 2
+Ns 10.2
+newmtl GDLM52_material_3
+Ka 0.45098 0.45098 0.45098
+Kd 0.721569 0.721569 0.721569
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Mirror_02.jpg
+map_Kd RES_Robson R01_Texturas\Mirror_02.jpg
+map_Ks RES_Robson R01_Texturas\Mirror_02.jpg
+newmtl GDLM53_material_4
+Ka 0.5 0.5 0.198039
+Kd 0.8 0.8 0.316863
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM54_material_6
+Ka 0.35098 0.35098 0.35098
+Kd 0.561569 0.561569 0.561569
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Aluminum.jpg
+map_Kd RES_Robson R01_Texturas\Aluminum.jpg
+map_Ks RES_Robson R01_Texturas\Aluminum.jpg
+newmtl GDLM55_material_5
+Ka 0.109804 0.109804 0.109804
+Kd 0.175686 0.175686 0.175686
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM56_material_1
+Ka 0.350004 0.350004 0.350004
+Kd 0.560006 0.560006 0.560006
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM57_material_2
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Pintura_-_Azul_Pálido
+Ka 0.590824 0.718471 0.784118
+Kd 0.260471 0.316745 0.345686
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Vidro_-_Cetin
+Ka 0.626471 0.641176 0.644118
+Kd 0.242235 0.247922 0.249059
+Ks 0.4 0.4 0.4
+illum 2
+d 0.75
+Ns 7
+map_Ka RES_Robson R01_Texturas\Glass - Satin -opt.jpg
+map_Kd RES_Robson R01_Texturas\Glass - Satin -opt.jpg
+map_Ks RES_Robson R01_Texturas\Glass - Satin -opt.jpg
+newmtl Pintura_-_Branco_Polido
+Ka 0.88 0.88 0.88
+Kd 0.3 0.3 0.3
+Ks 0.683104 0.683104 0.69
+illum 2
+Ns 38.56
+newmtl TECIDO_BRANCO
+Ka 0.734118 0.724941 0.715765
+Kd 0.658824 0.650588 0.642353
+Ks 0.08 0.08 0.08
+illum 2
+Ns 0.6
+map_Ka RES_Robson R01_Texturas\Textile - Fabric White cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Textile - Fabric White cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Textile - Fabric White cb -opt.jpg
+newmtl TECIDO_BEGE_MÉDIO
+Ka 0.501529 0.496588 0.474353
+Kd 0.390078 0.386235 0.368941
+Ks 0 0 0
+illum 2
+Ns 2.6
+map_Ka RES_Robson R01_Texturas\TECIDO BEGE MÉDIO.jpg
+map_Kd RES_Robson R01_Texturas\TECIDO BEGE MÉDIO.jpg
+map_Ks RES_Robson R01_Texturas\TECIDO BEGE MÉDIO.jpg
+newmtl Tecido_-_01
+Ka 0.660706 0.633176 0.608706
+Kd 0.762353 0.730588 0.702353
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Textile - 01 cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Textile - 01 cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Textile - 01 cb -opt.jpg
+newmtl GDLM64_material_1
+Ka 0.388235 0.388235 0.388235
+Kd 0.621176 0.621176 0.621176
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM65_material_2
+Ka 0.3 0.3 0.3
+Kd 0.48 0.48 0.48
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\2cromado_#999999.jpg
+map_Kd RES_Robson R01_Texturas\2cromado_#999999.jpg
+map_Ks RES_Robson R01_Texturas\2cromado_#999999.jpg
+newmtl GDLM66_material_3
+Ka 0.12549 0.12549 0.12549
+Kd 0.200784 0.200784 0.200784
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM67_material_4
+Ka 0.27451 0.27451 0.27451
+Kd 0.439216 0.439216 0.439216
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM68_material_5
+Ka 0.103922 0.103922 0.103922
+Kd 0.166275 0.166275 0.166275
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM69_material_6
+Ka 0.4 0.4 0.4
+Kd 0.64 0.64 0.64
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM70_material_7
+Ka 0.160784 0.160784 0.160784
+Kd 0.257255 0.257255 0.257255
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM71_material_8
+Ka 0.0137255 0.0137255 0.0137255
+Kd 0.0219608 0.0219608 0.0219608
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Display_#070707.jpg
+map_Kd RES_Robson R01_Texturas\Display_#070707.jpg
+map_Ks RES_Robson R01_Texturas\Display_#070707.jpg
+newmtl GDLM72_material_9
+Ka 0.3 0.3 0.3
+Kd 0.48 0.48 0.48
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM73_material_1
+Ka 0.0882353 0.0882353 0.0882353
+Kd 0.141176 0.141176 0.141176
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM74_material_2
+Ka 0.378431 0.378431 0.378431
+Kd 0.60549 0.60549 0.60549
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\4Metal_Corrogated_Shiny.jpg
+map_Kd RES_Robson R01_Texturas\4Metal_Corrogated_Shiny.jpg
+map_Ks RES_Robson R01_Texturas\4Metal_Corrogated_Shiny.jpg
+newmtl GDLM75_material_3
+Ka 0.350004 0.350004 0.350004
+Kd 0.560006 0.560006 0.560006
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEN_MATERIAL91
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEN_MATERIAL89
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Madeira_-_Carvalho_Claro
+Ka 0.536 0.499216 0.451922
+Kd 0.496 0.461961 0.418196
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Wood - Oak Light -opt.jpg
+map_Kd RES_Robson R01_Texturas\Wood - Oak Light -opt.jpg
+map_Ks RES_Robson R01_Texturas\Wood - Oak Light -opt.jpg
+newmtl Pintura_-_Pêssego
+Ka 0.926353 0.656471 0.492353
+Kd 0.408392 0.289412 0.217059
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl GDLM80_material_1
+Ka 0.288235 0.194118 0.121569
+Kd 0.461176 0.310588 0.19451
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#93633e.jpg
+map_Kd RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#93633e.jpg
+map_Ks RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#93633e.jpg
+newmtl GDLM81_material_2
+Ka 0.258824 0.168627 0.1
+Kd 0.414118 0.269804 0.16
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#845633.jpg
+map_Kd RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#845633.jpg
+map_Ks RES_Robson R01_Texturas\68_cherry wood fine medium color texture-seamless_#845633.jpg
+newmtl GDLM82_material_3
+Ka 0.354902 0.252941 0.162745
+Kd 0.567843 0.404706 0.260392
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\73_wood fine medium color texture-seamless_#b58153.jpg
+map_Kd RES_Robson R01_Texturas\73_wood fine medium color texture-seamless_#b58153.jpg
+map_Ks RES_Robson R01_Texturas\73_wood fine medium color texture-seamless_#b58153.jpg
+newmtl GDLM83_material_4
+Ka 0.294118 0.294118 0.294118
+Kd 0.470588 0.470588 0.470588
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM84_material_5
+Ka 0.309804 0.213725 0.139216
+Kd 0.495686 0.341961 0.222745
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\133_golden teak fine wood PBR texture seamless_#9e6d47.jpg
+map_Kd RES_Robson R01_Texturas\133_golden teak fine wood PBR texture seamless_#9e6d47.jpg
+map_Ks RES_Robson R01_Texturas\133_golden teak fine wood PBR texture seamless_#9e6d47.jpg
+newmtl GDLM85_material_6
+Ka 0.294118 0.294118 0.294118
+Kd 0.470588 0.470588 0.470588
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM86_material_7
+Ka 0.139216 0.0862745 0.0862745
+Kd 0.222745 0.138039 0.138039
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\78_leather texture-seamless_#472c2c.jpg
+map_Kd RES_Robson R01_Texturas\78_leather texture-seamless_#472c2c.jpg
+map_Ks RES_Robson R01_Texturas\78_leather texture-seamless_#472c2c.jpg
+newmtl PEN_MATERIAL4
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl ÁGUA_PISCINA
+Ka 0.445176 0.717804 0.759216
+Kd 0.268118 0.432314 0.457255
+Ks 0.72 0.72 0.72
+illum 2
+d 0.64
+Ns 5.4
+map_Ka RES_Robson R01_Texturas\Water - Pool -opt.jpg
+map_Kd RES_Robson R01_Texturas\Water - Pool -opt.jpg
+map_Ks RES_Robson R01_Texturas\Water - Pool -opt.jpg
+newmtl GDLM89_rfa_material_2
+Ka 0.917647 0.917647 0.917647
+Kd 0.917647 0.917647 0.917647
+Ks 0 0 0
+illum 2
+Ns 25.1
+newmtl GDLM90_BrakeShoe
+Ka 0.468415 0.461396 0.415009
+Kd 0.526967 0.519071 0.466885
+Ks 0.0338819 0.0335691 0.0317128
+illum 2
+Ns 1
+newmtl GDLM91_builtInMatBlackTyre
+Ka 0.0860066 0.0860066 0.0860066
+Kd 0.0810062 0.0810062 0.0810062
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM92_BrakeDisk
+Ka 0.882353 0.882353 0.882353
+Kd 0.705882 0.705882 0.705882
+Ks 0.873358 0.873358 0.873358
+illum 2
+Ns 74.4
+newmtl Pintura_-_Laranja_Cádmio
+Ka 0.860706 0.288118 0.0692941
+Kd 0.379451 0.12702 0.030549
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Couro_-_Tabaco
+Ka 0.284798 0.11335 0.0423066
+Kd 0.289884 0.115374 0.043062
+Ks 0.542196 0.454667 0.413333
+illum 2
+Ns 4.6
+map_Ka RES_Robson R01_Texturas\Leather - Tabac rb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Leather - Tabac rb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Leather - Tabac rb -opt.jpg
+newmtl CONCRETO_APARENTE
+Ka 0.313765 0.313765 0.313765
+Kd 0.423333 0.423333 0.423333
+Ks 0.212824 0.212824 0.212824
+illum 2
+Ns 0.92
+map_Ka RES_Robson R01_Texturas\Concrete - Dark crbn -opt.jpg
+map_Kd RES_Robson R01_Texturas\Concrete - Dark crbn -opt.jpg
+map_Ks RES_Robson R01_Texturas\Concrete - Dark crbn -opt.jpg
+newmtl Calçada_-_Asfalto_Claro
+Ka 0.401961 0.424471 0.443765
+Kd 0.245098 0.258824 0.270588
+Ks 0.241412 0.242824 0.262588
+illum 2
+Ns 0.92
+map_Ka RES_Robson R01_Texturas\Pavement - Asphalt Light cb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Pavement - Asphalt Light cb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Pavement - Asphalt Light cb -opt.jpg
+newmtl GDLM97_material_1
+Ka 0.309804 0.213725 0.139216
+Kd 0.495686 0.341961 0.222745
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM98_material_2
+Ka 0.354902 0.252941 0.162745
+Kd 0.567843 0.404706 0.260392
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM99_material_3
+Ka 0.294118 0.294118 0.294118
+Kd 0.470588 0.470588 0.470588
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM100_material_4
+Ka 0.288235 0.190196 0.111765
+Kd 0.461176 0.304314 0.178824
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM101_material_5
+Ka 0.139216 0.0862745 0.0862745
+Kd 0.222745 0.138039 0.138039
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEN_MATERIAL1
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Isolamento_-_Fibra_de_Vidro
+Ka 0.823333 0.753333 0.516667
+Kd 0.397137 0.363373 0.249216
+Ks 0.155608 0.152471 0.131137
+illum 2
+Ns 0.6
+map_Ka RES_Robson R01_Texturas\Insulation - Fiberglass -opt.jpg
+map_Kd RES_Robson R01_Texturas\Insulation - Fiberglass -opt.jpg
+map_Ks RES_Robson R01_Texturas\Insulation - Fiberglass -opt.jpg
+newmtl ALUMÍNIO
+Ka 0.71586 0.687236 0.687236
+Kd 0.128488 0.12335 0.12335
+Ks 0.544738 0.544738 0.544738
+illum 2
+Ns 10.2
+newmtl MANTA_ASFÁLTICA
+Ka 0.273333 0.28298 0.302275
+Kd 0.166667 0.172549 0.184314
+Ks 0.241412 0.242824 0.262588
+illum 2
+Ns 0.92
+map_Ka RES_Robson R01_Texturas\Pavement - Asphalt Dark crb -opt.jpg
+map_Kd RES_Robson R01_Texturas\Pavement - Asphalt Dark crb -opt.jpg
+map_Ks RES_Robson R01_Texturas\Pavement - Asphalt Dark crb -opt.jpg
+newmtl Madeira_-_Pinho_Granulado_Vertical
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka RES_Robson R01_Texturas\Wood - Pine Grained Vertical -opt.jpg
+map_Kd RES_Robson R01_Texturas\Wood - Pine Grained Vertical -opt.jpg
+map_Ks RES_Robson R01_Texturas\Wood - Pine Grained Vertical -opt.jpg
+newmtl TECIDO_BEGE
+Ka 0.559922 0.555294 0.541412
+Kd 0.46502 0.461176 0.449647
+Ks 0.08 0.08 0.08
+illum 2
+Ns 0.6
+map_Ka RES_Robson R01_Texturas\TECIDO BEGE CLARO.jpg
+map_Kd RES_Robson R01_Texturas\TECIDO BEGE CLARO.jpg
+map_Ks RES_Robson R01_Texturas\TECIDO BEGE CLARO.jpg
